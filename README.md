@@ -2,4 +2,4 @@
 
 [Read the paper](https://arxiv.org/pdf/2110.02432.pdf)
 
-Codes will be released soon.
+README will be updated soon.
