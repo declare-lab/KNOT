@@ -1,1 +1,1 @@
-#results will appear here
+#this file contains saved local and pretrained global model
