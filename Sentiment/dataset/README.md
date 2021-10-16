@@ -1,1 +1,1 @@
-#this file contains saved local and pretrained global model
+# This file contains dataset, preprocessing, and train test splits
