@@ -5,6 +5,7 @@ Please download the datasets from this: [link](https://drive.google.com/drive/fo
 ### Steps:
 Within this folder:
 
+1) Place all the zip files in this folder. Assert that all the dataset are under sinkhorn-loss/Sentiment/dataset. 
 1) Run data_preprocess_sentiment.py
 2) Run train_test_split.py
 
