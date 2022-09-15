@@ -1,4 +1,4 @@
-# Federated Distillation of Natural Language Understanding with Confident Sinkhorns
+# KNOT: Knowledge Distillation using Optimal Transport for Solving NLP Tasks
 
 This repository provides an alternative method for ensembled distillation of local models to a global model. The local models can be trained via entropy or optimal transport (OT) loss. We train local (on-device) models using cross-entropy loss due to the higher computational complexity of OT. The global model is pretrained on global dataset which is relatively bigger than local datasets.
 
