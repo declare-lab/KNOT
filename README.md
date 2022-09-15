@@ -25,12 +25,14 @@ For the Sentiment task, in the Sentiment directory
 
 Please cite our paper if you find this repository useful. The latest version is available [here](https://arxiv.org/pdf/2110.02432.pdf).
 
-@article{bhardwaj2021federated, <br>
-  title={Federated Distillation of Natural Language Understanding with Confident Sinkhorns}, <br>
-  author={Bhardwaj, Rishabh and Vaidya, Tushar and Poria, Soujanya}, <br>
-  journal={arXiv preprint arXiv:2110.02432}, <br>
-  year={2021}
+```
+@inproceedings{bhardwaj2022knot,
+  title={KNOT: Knowledge Distillation using Optimal Transport for Solving NLP Tasks},
+  author={Bhardwaj, Rishabh and Vaidya, Tushar and Poria, Soujanya},
+  conference={COLING},
+  year={2022}
 }
+```
 
 ## Contact
 If you have any questions, please feel free to contact `rishabhbhardwaj15@gmail.com`.
